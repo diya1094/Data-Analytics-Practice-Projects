@@ -1,6 +1,10 @@
-<h1 align="center" id="title">Data Analysis Practice Projects</h1>
+<h1 align="center" id="title">Data Analysis Practice Project</h1>
 
-<p id="description">Starting Data Analysis journey with some interesting practice projects.</p>
+<pre id="description">Starting Data Analytics journey with some interesting practice projects.
+Project 1: Pizza Sales Analysis
+  -Analyzing key indicators for our pizza sales data to gain insights into business performance.
+</pre>
+
   
 <h2>💻 Built with</h2>
 
